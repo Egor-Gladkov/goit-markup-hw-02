@@ -5,6 +5,7 @@
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        cursor: pointer
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -19,9 +20,11 @@
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-    padding: 0 15px;
-        width: 1158px;
-        height: 224px;
-        max-width: 1158px;
-        background: #2e2f42;
+    
+        
+}
+.sas {
+    background: #2e2f42
+    
+       
 }

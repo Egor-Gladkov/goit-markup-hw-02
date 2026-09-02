@@ -1,4 +1,4 @@
-.tim1 {
+.tim-qwer {
     text-align: center;
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -9,7 +9,7 @@
         
           
 }
-.tim11 {
+.tim-qweri {
     text-align: center;
     font-family: "Roboto", sans-serif;
         font-weight: 400;
@@ -27,7 +27,7 @@
         text-align: center;
         color: #2e2f42;
 }
-.tim2{
+.tim-turky{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -36,7 +36,7 @@
         text-align: center;
         color: #2e2f42;
 }
-.tim22{
+.tim-turkey{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -45,7 +45,7 @@
         text-align: center;
         color: #434455;
 }
-.tim3{
+.tim-kloud{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -54,7 +54,7 @@
         text-align: center;
         color: #2e2f42;
 }
-.tim33{
+.tim-kloudi{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -63,7 +63,7 @@
         text-align: center;
         color: #434455;
 }
-.tim4{
+.tim-dert{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -72,7 +72,7 @@
         text-align: center;
         color: #2e2f42;
 }
-.tim44{
+.tim-derti{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -80,4 +80,10 @@
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+}
+.team-one{
+    background-color: #f4f4fd
+}
+li{
+    background-color: #ffffff
 }

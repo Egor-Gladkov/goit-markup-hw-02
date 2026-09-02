@@ -1,4 +1,4 @@
-span{
+.dodik{
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -17,10 +17,8 @@ font-family: "Raleway", sans-serif;
         color: #f4f4fd;
 
 }
-footer{
-    padding: 0 15px;
-        width: 1158px;
-        height: 112px;
+.footer-del{
+    
         max-width: 1158px;
         background: #2e2f42;
 }

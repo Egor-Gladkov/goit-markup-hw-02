@@ -1,5 +1,5 @@
-span{
-    color: blue;
+.logo.span{
+    color: #4d5ae5;
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -17,7 +17,13 @@ span{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+
 }
+.hed1:hover,
+.hed1:focus{
+color: #404bbf;
+}
+
 .hed2 {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -25,6 +31,10 @@ span{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+}
+.hed2:hover,
+.hed2:focus{
+    color: #404bbf;
 }
 .hed3 {
     font-family: "Roboto", sans-serif;
@@ -34,6 +44,10 @@ span{
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.hed3:hover,
+.hed3:focus{
+    color: #404bbf;
+}
 .milo {
     font-family: "Roboto", sans-serif;
         font-weight: 400;
@@ -41,6 +55,11 @@ span{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style: normal
+}
+.milo:hover,
+.milo:focus{
+    color: #404bbf;
 }
 .telo {
     font-family: "Roboto", sans-serif;
@@ -49,4 +68,9 @@ span{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style: normal
+}
+.telo:hover,
+.telo:focus{
+    color: #404bbf;
 }
