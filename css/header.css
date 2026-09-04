@@ -1,76 +1,45 @@
-.logo.span{
-    color: #4d5ae5;
-}
 .logo {
     font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.33333;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #2e2f42;
-}
-.hed1 {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-
-}
-.hed1:hover,
-.hed1:focus{
-color: #404bbf;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33333;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
 }
 
-.hed2 {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+.logo span {
+    color: #4d5ae5;
 }
-.hed2:hover,
-.hed2:focus{
+
+.navigation-list,
+.contacts-list {
+    list-style-type: none;
+}
+
+.navigation-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
     color: #404bbf;
 }
-.hed3 {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+
+.contact-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;
 }
-.hed3:hover,
-.hed3:focus{
+
+.contact-link:hover,
+.contact-link:focus {
     color: #404bbf;
 }
-.milo {
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        font-style: normal
-}
-.milo:hover,
-.milo:focus{
-    color: #404bbf;
-}
-.telo {
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        font-style: normal
-}
-.telo:hover,
-.telo:focus{
-    color: #404bbf;
-}
+
